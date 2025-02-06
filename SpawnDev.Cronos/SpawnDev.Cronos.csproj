@@ -26,8 +26,4 @@
 		<None Include="..\LICENSE.txt" Pack="true" PackagePath="\" />
 	</ItemGroup>
 	
-	<ItemGroup>
-	  <Folder Include="Cron\" />
-	</ItemGroup>
-
 </Project>
